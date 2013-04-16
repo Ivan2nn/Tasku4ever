@@ -1,4 +1,4 @@
-drivingApp
+fakeApp
 ==========
 
-Driving school application
+Fake application
